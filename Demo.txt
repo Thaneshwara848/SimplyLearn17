@@ -1,0 +1,87 @@
+Java full stack 
+
+
+phase-1 
+Phase-2 
+Phase-3
+
+	Pending
+		Angualr 
+			HTML -HTML 5
+			Css - Css3	
+			Bootstracp 
+			JavaScript
+					js- Angualr JS  			
+Phase-4 
+
+============================================
+Component 
+Routing 
+Data Binding 
+		Event binding == (click)
+		Interpolation 
+		Property binding 
+Pipe 
+		transform the data into to the other formate 
+
+Directive 
+		Strutural directiv : 
+			*ngIf, 
+			*ngFor 
+			*ngSwitch
+		Attubute Directive 
+			*ngStyle 
+Forms
+
+Life cycle hooks 
+
+Services 
+
+
+
+
+
+
+
+
+
+
+================================
+Componet 
+Routing 
+Directiove 
+Data Binding 
+Pipe 
+Forms
+Services : it is used to shrre the inform tion across all  the component 
+
+Life cycle hooks : 
+
+
+		ngOnInt :
+				as soon as component initilizes on init method will work 
+				it executes only one time 	
+		OnDoCheck
+		OgOnChanges
+		OnDestroy 
+
+				at the end or when we are come out of the component then destroy method will execute 
+
+
+
+
+
+Services : it is used to shrre the inform tion across all  the component 
+
+
+
+
+
+
+
+
+
+
+
+
+

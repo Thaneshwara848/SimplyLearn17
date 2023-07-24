@@ -1,0 +1,19 @@
+Type script 
+
+ class and object 
+  this . super 
+  oops 
+
+  access modifier  ;
+    public 
+    private 
+
+
+    Date type : 
+        string 
+        number 
+        any 
+
+    optional paramnet 
+    default parementer 
+
